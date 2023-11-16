@@ -13,7 +13,7 @@ This WIP repository displays relevant parts of code developed. In particular:
 
 Only sample data files are included at this stage.
 
-Video demo on inference results:
+Video demo on PointNet inference results projected into FPV camera:
 
 
 https://github.com/hagsdp/Aerial_radar_pointcloud_segmentation/assets/35865504/4ee27b1e-e20d-4224-af4b-991a06686f59
