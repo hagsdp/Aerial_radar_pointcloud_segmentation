@@ -1,4 +1,4 @@
-# "Segmentation of Drone Collision Hazards in Airborne RADAR Point Clouds Using PointNet" 
+# Segmentation of Drone Collision Hazards in Airborne RADAR Point Clouds Using PointNet
 arXiv preprint: https://arxiv.org/abs/2311.03221
 
 In this work we deploy an airborne radar in an M300 drone and train a PointNet architecture to perform semantic segmentation of 5 classes. 
