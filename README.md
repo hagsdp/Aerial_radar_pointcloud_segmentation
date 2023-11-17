@@ -11,7 +11,7 @@ This WIP repository displays relevant parts of code developed. In particular:
 
 - The data processing and PointNet training routines
 
-Only sample data files are included at this stage.
+Sample data files to be included for testing of the pipeline.
 
 Video demo on PointNet inference results projected into FPV camera:
 
