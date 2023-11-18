@@ -6,6 +6,7 @@ import functions as fn
 df = fn.create_survey_dataframe(
     config.station_lat, 
     config.station_lon, 
+    config.ini_alt,
     config.max_range, 
     config.voxel_size, 
     config.hor_angle, 
