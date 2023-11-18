@@ -13,7 +13,7 @@ def round_to_voxel_size(x, size):
     """Round a given value to the closest multiple of the voxel_size."""
     return size * round(x / size)
 
-def create_survey_dataframe(station_lat, station_lon, max_range, voxel_size, hor_angle, ver_angle, bearing, pitch_correction, distance_sensor_volume):
+def create_survey_dataframe(station_lat, station_lon, ini_alt, max_range, voxel_size, hor_angle, ver_angle, bearing, pitch_correction, distance_sensor_volume):
     """Create a DataFrame for the survey mission."""
     # Calculate actual volume sizes
     vertical_FOV = round_to_voxel_size(2 * int(max_range * math.tan(math.radians(ver_angle))), voxel_size)
