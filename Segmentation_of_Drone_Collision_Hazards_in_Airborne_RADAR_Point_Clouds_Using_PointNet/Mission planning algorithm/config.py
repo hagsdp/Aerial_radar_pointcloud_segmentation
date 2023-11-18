@@ -6,6 +6,7 @@ R = 6378137
 # Stationing position, decimal degrees - LAT LON position of the sensor / point of reference
 station_lat = 55.680856
 station_lon = -4.111961
+ini_alt = 20
 
 # Details of the volume to be scanned
 max_range = 70 # maximum distance from the sensor to be surveyed
